@@ -1,138 +1,211 @@
-# form-designs
-Table of Contents
-book About the Project
-hammer_and_wrench Built With
-Tech Stack
-Key Features
-rocket Live Demo
-computer Getting Started
-Setup
-Prerequisites
-Install
-Usage
-Run tests
-Deployment
-busts_in_silhouette Authors
-telescope Future Features
-handshake Contributing
-star Show your support
-pray Acknowledgements
-question FAQ (OPTIONAL)
-memo License
-book [My To Do List App]
-This applictation helps you track your daily tasks by allowing you to create a list and to be able to cross things off that list.
 
-hammer_and_wrench Built With
-Tech Stack
-Built with HTML, CSS and JavaScript.
 
-Client
-Server
-Database
-Key Features
-Describe between 1-3 key features of the application.
+<!-- TABLE OF CONTENTS -->
 
-Add tasks to list
-Edit list
-Delete tasks
-(back to top)
+# 📗 Table of Contents
 
-rocket Live Demo
-N/A
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
-(back to top)
+<!-- PROJECT DESCRIPTION -->
 
-computer Getting Started
+# 📖 [My To Do List App] <a name="about-project"></a>
+
+> This applictation helps you track your daily tasks by allowing you to create a list and to be able to cross things off that list.
+
+
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+> Built with HTML, CSS and JavaScript.
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">HTML and CSS</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">JavaScript</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">N/A</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+> Describe between 1-3 key features of the application.
+
+- **Add tasks to list**
+- **Edit list**
+- **Delete tasks**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> N/A
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+
 To get a local copy up and running, follow these steps.
 
-Prerequisites
+### Prerequisites
+
 In order to run this project you need:
 
--Only a local browser installed on you machine -Node js should be installed on your machine. Link here
+-Only a local browser installed on you machine
+-Node js should be installed on your machine. [Link here](https://nodejs.org/en/download/)
 
-Setup
+### Setup
+
 Clone this repository to your desired folder:
 
-cd to-do-app git clone https://github.com/Busiwa24/to-do-app
 
-Install
+  cd to-do-app
+  git clone https://github.com/Busiwa24/to-do-app
+
+
+### Install
+
 Install this project with:
 
-npm install
 
-Usage
+  npm install
+
+### Usage
+
 To run the project, execute the following command:
 
-npm start
 
-Run tests
+  npm start
+
+
+### Run tests
+
 To run tests, run the following command:
 
 npm test
 
-(back to top)
 
-busts_in_silhouette Authors
-Mention all of the collaborators of this project.
 
-bust_in_silhouette Busiwa Liuma
 
-GitHub: Busiwa24
-Twitter: @busiwaliuma
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-telescope Future Features
-Describe 1 - 3 features you will add to the project.
+<!-- AUTHORS -->
 
- Add a calendar functionality
-(back to top)
+## 👥 Authors <a name="authors"></a>
 
-handshake Contributing
+> Mention all of the collaborators of this project.
+
+👤 **Busiwa Liuma**
+
+- GitHub: [Busiwa24](https://github.com/Busiwa24)
+- Twitter: [@busiwaliuma](https://twitter.com/busiwaliuma)
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **Add a calendar functionality**
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](../../issues/).
 
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-star Show your support
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+
 If you like this project give it a star...
 
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-pray Acknowledgments
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+
+
 I would like to thank my coding partners
 
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-question FAQ (OPTIONAL)
-Add at least 2 questions new developers would ask when they decide to use your project.
+<!-- FAQ (optional) -->
 
-[Question_1]
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-[Answer_1]
-[Question_2]
+> Add at least 2 questions new developers would ask when they decide to use your project.
 
-[Answer_2]
-(back to top)
+- **[Question_1]**
 
-memo License
-This project is MIT licensed.
+  - [Answer_1]
 
-NOTE: we recommend using the MIT license - you can set it up quickly by using templates available on GitHub. You can also use any other license if you wish.
+- **[Question_2]**
 
-(back to top)
+  - [Answer_2]
 
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](MIT.md) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
